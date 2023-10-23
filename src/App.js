@@ -20,7 +20,7 @@ export default function App() {
           </a>{" "}
           and is{" "}
           <a
-            href="https://github.com/Ghazal-Z/weather-app"
+            href="https://github.com/Ghazal-Z/weather-react-app"
             target="_blank"
             rel="noreferrer"
           >
