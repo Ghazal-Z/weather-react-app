@@ -10,3 +10,18 @@
   color: #00ab9d;
   text-decoration: none;
 }
+
+.App a:hover {
+  color: #00ab9d;
+  text-decoration: underline;
+}
+
+.WeatherTemperature a {
+  color: #00ab9d;
+  text-decoration: none;
+}
+
+.WeatherTemperature a:hover {
+  color: #00ab9d;
+  text-decoration: underline;
+}
