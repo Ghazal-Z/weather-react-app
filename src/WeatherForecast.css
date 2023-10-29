@@ -1,0 +1,9 @@
+.WeatherForecast {
+  margin-top: 5px;
+  text-align: center;
+}
+
+.ForecastTemperatureMin {
+  opacity: 0.8;
+  margin-left: 5px;
+}
