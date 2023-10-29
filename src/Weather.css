@@ -3,7 +3,12 @@
   border: 5px solid #00ab9d;
   border-radius: 5px;
   padding: 20px;
-  color: #6c757d;
+  color: #565c61;
+  background: radial-gradient(
+    827px at 47.3% 48%,
+    rgb(255, 248, 189) 0%,
+    rgb(138, 192, 216) 90%
+  );
 }
 
 .Weather h1 {
