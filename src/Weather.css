@@ -53,12 +53,24 @@
   top: -32px;
 }
 
-@media (max-width: 992px) {
+@media (max-width: 890px) {
+  .Weather {
+    padding: 20px 10px;
+  }
+  .Weather h1 {
+    font-size: 18px;
+  }
+
   .Weather .temperature {
-    font-size: 46px;
+    font-size: 30px;
   }
 
   .Weather .unit {
-    top: -22px;
+    top: -15px;
+    font-size: 12px;
+  }
+
+  .Weather canvas {
+    margin-right: 0;
   }
 }
