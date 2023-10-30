@@ -1,6 +1,11 @@
+:root {
+  --primary-color: #00ab9d;
+  --secondary-color: #323233;
+}
+
 .Weather {
   font-family: Arial, sans-serif;
-  border: 5px solid #00ab9d;
+  border: 5px solid var(--primary-color);
   border-radius: 5px;
   padding: 20px;
   color: #565c61;
@@ -37,14 +42,14 @@
 
 .Weather .temperature {
   font-weight: bold;
-  color: #323233;
+  color: var(--secondary-color);
   font-size: 64px;
   font-weight: 400;
   line-height: 64px;
 }
 
 .Weather .unit {
-  color: #323233;
+  color: var(--secondary-color);
   font-size: 16px;
   font-weight: 400;
   position: relative;

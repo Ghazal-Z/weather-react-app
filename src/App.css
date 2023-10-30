@@ -9,21 +9,21 @@
   text-align: center;
 }
 .App a {
-  color: #00ab9d;
+  color: var(--primary-color);
   text-decoration: none;
 }
 
 .App a:hover {
-  color: #00ab9d;
+  color: var(--primary-color);
   text-decoration: underline;
 }
 
 .WeatherTemperature a {
-  color: #00ab9d;
+  color: var(--primary-color);
   text-decoration: none;
 }
 
 .WeatherTemperature a:hover {
-  color: #00ab9d;
+  color: var(--primary-color);
   text-decoration: underline;
 }
