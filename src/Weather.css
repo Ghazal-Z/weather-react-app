@@ -52,3 +52,13 @@
   line-height: 1;
   top: -32px;
 }
+
+@media (max-width: 992px) {
+  .Weather .temperature {
+    font-size: 46px;
+  }
+
+  .Weather .unit {
+    top: -22px;
+  }
+}

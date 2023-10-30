@@ -27,3 +27,10 @@
   color: var(--primary-color);
   text-decoration: underline;
 }
+
+@media (max-width: 992px) {
+  .App {
+    max-width: 500px;
+    max-height: 40px;
+  }
+}
